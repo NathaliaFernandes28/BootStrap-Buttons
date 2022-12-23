@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-container {
+  background-color: #0fc2c0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 10em;
+}
+.title {
+  text-align: center;
+  color: #023535;
+}
+.subtitle {
+  background-color: transparent;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 10px;
+  color: #023535;
+  text-align: center;
+}
+.container {
+  text-align: center;
+  padding: 10px;
+}
+
+.btn-outline {
+  text-align: center;
+  padding: 10px;
+}
+.btn-size {
+  text-align: center;
+  padding: 10px;
+}
